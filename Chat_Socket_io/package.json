@@ -1,0 +1,16 @@
+{
+  "name": "chat_socket_io",
+  "version": "1.0.0",
+  "description": "projeto de pratica do socket.io, chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego de Souza Lima",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}

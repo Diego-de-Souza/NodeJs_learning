@@ -1,0 +1,20 @@
+{
+  "name": "projeto_sistema_imagens_com_tdd",
+  "version": "1.0.0",
+  "description": "projeto de sistema de compartilhamento de imagens com TDD, para treinamento em TDD e relembrar conceitos da formação de Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego de Souza Lima",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.4",
+    "supertest": "^7.0.0"
+  }
+}

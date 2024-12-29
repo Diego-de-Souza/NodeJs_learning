@@ -1,0 +1,15 @@
+{
+  "name": "projeto_com_knex.js",
+  "version": "1.0.0",
+  "description": "projeto de aprendizado de utilizacao do Knex.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego de Souza L.",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^3.1.0",
+    "mysql2": "^3.11.5"
+  }
+}
